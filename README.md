@@ -80,7 +80,6 @@ A backend-focused management application using Java, Spring Boot and MySQL.
 
 - 💼 LinkedIn: [Vaibhav Singhal](https://www.linkedin.com/in/vaibhavsinghal2005)
 - 💻 GitHub: [vaibhavagr1512](https://github.com/vaibhavagr1512)
-- 🧠 LeetCode: [vaibhavagr1512](https://leetcode.com/u/vaibhavagr1512/)
 
 ---
 
